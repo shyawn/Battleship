@@ -1,18 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 20 21:00:42 2020
-
-@author: csjsh
-"""
-
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 19 07:27:18 2020
-
-@author: csjsh
-"""
-
 
 from random import randint
 import os
